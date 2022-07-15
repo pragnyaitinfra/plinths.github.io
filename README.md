@@ -1,2 +1,1 @@
-# plinths.github.io
-Practical Linux in T(H)amil
+Practial Linux in TAMIL
