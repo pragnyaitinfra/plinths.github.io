@@ -3,14 +3,21 @@ main:
   - title: "About Me"
     url: /aboutme/
   - title: "Open Source"
-    url: /open-source/
+    url: /categories/#open-source
   - title: "Technology"
-    url: /technology/
+    url: /categories/#technology
   - title: "Windows"
-    url: /windows/
+    url: /categories/#windows
   - title: "Linux"
-    url: /linux/
+    url: /categories/#linux
   - title: "Links"
-    url: /links/
+    url: /categories/#links
   - title: "Projects"
-    url: /projects/
+    url: /categories/#projects
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: "/categories"
+  - title: "Tags"
+    url: "/tags"
+    
