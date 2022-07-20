@@ -93,9 +93,9 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - https://twitter.com/PragnyaITInfra
-    - https://www.facebook.com/profile.php?id=100074398151221
-    - https://www.linkedin.com/in/pragnyaitinfra
+    - "https://twitter.com/PragnyaITInfra"
+    - "https://www.facebook.com/profile.php?id=100074398151221"
+    - "https://www.linkedin.com/in/pragnya-it-infra/"
 
 
 # Analytics
@@ -337,12 +337,15 @@ defaults:
       author_profile: true
       read_time: true
       toc: true
-      toc_label: 'Menu'
+      toc_label: 'On this page'
       toc_icon: 'paperclip'
       comments: true # true
       share: true
       related: true
       show_date: true
+      # https://applause-button.com/
+      applause_button: true
+
   # _pages
   - scope:
       path: "_pages"
