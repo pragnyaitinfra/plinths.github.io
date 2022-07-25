@@ -24,6 +24,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jekyll-compose", "~> 0.12.0"
   spec.add_runtime_dependency "jekyll-seo-tag", "~> 2.8"
   spec.add_runtime_dependency "jekyll-spaceship", "~> 0.10.2"
+  spec.add_runtime_dependency "jekyll-asciidoc", "~> 3.0"
 
   spec.add_development_dependency "bundler"
   spec.add_development_dependency "rake", ">= 12.3.3"
